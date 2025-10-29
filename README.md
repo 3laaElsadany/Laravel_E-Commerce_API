@@ -40,6 +40,7 @@ panels.
 
     ``` bash
     composer install
+    php artisan jwt:secret
     ```
 
 3.  Start the server:
